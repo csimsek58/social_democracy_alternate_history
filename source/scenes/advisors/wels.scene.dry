@@ -7,8 +7,7 @@ new-page: true
 
 = Bülent Ecevit
 
-Wels is the long-time chairman of the SPD. He is a gifted organizer and a member of the centrist faction.
-Sevgili gardaşım, canım karaoğlan Bizim yüzümüze güleceksen gel
+Bülent Ecevir CHP'nin lideri. CHP'yi "ortanın solunda" konumlandıran Karaoğlan halk nezdinde epey popüler.
 
 - @clear_agenda
 - @party_discipline
@@ -16,8 +15,8 @@ Sevgili gardaşım, canım karaoğlan Bizim yüzümüze güleceksen gel
 - @root: Return to main
 
 @clear_agenda
-title: Clear the agenda
-subtitle: Removes all cards from the hand.
+title: Solu birleştir
+subtitle: Diğer sol fraksiyonlarla ve özellikle sendikalarla olan ilişkileri kuvvetlendirir.
 choose-if: advisor_action_timer = 0
 unavailable-subtitle: [? if advisor_action_timer > 0 : [+ advisor_action_timer +] months before next advisor action. ?]
 on-arrival: {!
